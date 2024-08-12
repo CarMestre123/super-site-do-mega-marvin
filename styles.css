@@ -46,6 +46,7 @@ height: 250px;
 }
 .categoria-videos img:hover {
 opacity: 1.0;
+height: 275px;
 border: 2px orange; 
 }
 
